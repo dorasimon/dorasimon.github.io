@@ -19,7 +19,7 @@ When we looked at the sorted data, we saw some implausible ones, like a station 
 4. 33rd St.
 
 
-![Prospect Park decrease in MTA turnstile entries over time](images/prospect_park.png)
+![Prospect Park decrease in MTA turnstile entries over time](../images/prospect_park.png)
 
 ![Hoyt Street station decrease in MTA turnstile entries over time](images/hoyt_street.png)
 
