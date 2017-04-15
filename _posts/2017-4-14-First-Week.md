@@ -21,11 +21,11 @@ When we looked at the sorted data, we saw some implausible ones, like a station 
 
 ![Prospect Park decrease in MTA turnstile entries over time](../images/prospect_park.png)
 
-![Hoyt Street station decrease in MTA turnstile entries over time](images/hoyt_street.png)
+![Hoyt Street station decrease in MTA turnstile entries over time](../images/hoyt_street.png)
 
-![79th Street station decrease in MTA turnstile entries over time](images/seventy_ninth_street.png)
+![79th Street station decrease in MTA turnstile entries over time](../images/seventy_ninth_street.png)
 
-![33rd Street station decrease in MTA turnstile entries over time](images/thirty_third_street.png)
+![33rd Street station decrease in MTA turnstile entries over time](../images/thirty_third_street.png)
 
 **Stations with Increasing Ridership over Time**
  
@@ -34,10 +34,10 @@ When we looked at the sorted data, we saw some implausible ones, like a station 
 3. 36th St.
 4. 34th St. - Herald Sq.
 
-![Metropolitan Ave. station increase in MTA turnstile entries over time](images/metropolitan_ave.png)
+![Metropolitan Ave. station increase in MTA turnstile entries over time](../images/metropolitan_ave.png)
  
-![Woodhaven Blvd. station increase in MTA turnstile entries over time](images/woodhaven_blvd.png)
+![Woodhaven Blvd. station increase in MTA turnstile entries over time](../images/woodhaven_blvd.png)
 
-![36th St. station increase in MTA turnstile entries over time](images/thirty_sixth_street.png)
+![36th St. station increase in MTA turnstile entries over time](../images/thirty_sixth_street.png)
 
-![34th St. - Herald Sq. station increase in MTA turnstile entries over time](images/thirty_fourth_street_herald_square.png)
+![34th St. - Herald Sq. station increase in MTA turnstile entries over time](../images/thirty_fourth_street_herald_square.png)
