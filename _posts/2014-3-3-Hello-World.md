@@ -9,9 +9,7 @@ We've finished our first group project today, for which we used the NTC MTA turn
 
 We drew data two files each year for the past two and half years. After cleaning, grouping and merging, we collected 186 stations with 2174 turnstiles in total. We aggregated all the turnstile data by each station and generated the percentage change over the period and sorted them.
 
-When we looked at the sorted data, we saw some implausible ones, like a station that has a hundred thousand times of ridership increase or almost a hundred percent decrease. We made some subjective judgements when selecting the ones to present. First, the change should be generally consistent; if there’s a huge spike or slump and falls back again, it may not be credible. Second, the change should make a relatively big impact in terms of the base number; if the base number is ten thousand, then even if it changed by 50%, it probably wouldn’t make much of a difference, where as if the base number is a hundred million, then even 10% of change may be a statistically significant change.
-
-We selected four stations with decreasing ridership and four stations with increasing ridership to present.
+When we looked at the sorted data, we saw some implausible ones, like a station that has a hundred thousand times of ridership increase or almost a hundred percent decrease. We made some subjective judgements when selecting the ones to present. First, the change should be generally consistent; if there’s a huge spike or slump and falls back again, it may not be credible. Second, the change should make a relatively big impact in terms of the base number; if the base number is ten thousand, then even if it changed by 50%, it probably wouldn’t make much of a difference, where as if the base number is a hundred million, then even 10% of change may be a statistically significant change. Here are the two samples we presented.
 
 **Stations with Declining Ridership over Time**
 
