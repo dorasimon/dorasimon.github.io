@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Want to know more?
 permalink: /Want-to-know-more-?/
 ---
 
