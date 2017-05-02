@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 1 at Metis
+title: Project 1 at Metis
 ---
 
 This week I have been fluctuating among being overwhelmed, frustrated, fulfilled... There's so much to learn and to do everyday: pair programming problems, lectures, projects... all happening concurrently!
