@@ -21,6 +21,10 @@ Here is the image of the ROC curve. The AUC was lifted to 0.63.
 
 ![ROC curve](../images/airbnb_roc.png)
 
+And here is a screenshot of my Flask web app. Didn't know how to change the gender to a categorical variable...
+
+![Flask](../images/airbnb_flask.png)
+
 My takeaway is that I should have adopted more features instead of throwing them away based on my assumption. I arbitrarily
 assumed that they are not relevant to the classification so I ditched them in the first place, which resulted in a lack of
 good features and a not very accurate model. I also should have saved the final data frame locally once created, because
