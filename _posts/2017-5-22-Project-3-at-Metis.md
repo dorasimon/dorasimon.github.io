@@ -28,5 +28,4 @@ And here is a screenshot of my Flask web app. Didn't know how to change the gend
 My takeaway is that I should have adopted more features instead of throwing them away based on my assumption. I arbitrarily
 assumed that they are not relevant to the classification so I ditched them in the first place, which resulted in a lack of
 good features and a not very accurate model. I also should have saved the final data frame locally once created, because
-otherwise I would have to run the entire code to get the data frame if something was messed up, which was pretty unnecessary
-and time-consuming.
+otherwise I would have to run the entire code to get the data frame if something was messed up, which happened a lot and was pretty time-consuming.
